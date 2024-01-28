@@ -41,6 +41,8 @@ const javascriptKontrol = () => {
             // dil.className = 'red';
             //?Alternatif yöntem
             dil.setAttribute("class", "red");
+        } else {
+            dil.setAttribute("class", "darkorchid");
         }
     });
 };
