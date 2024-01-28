@@ -1,6 +1,7 @@
 # DOM Example
 
-![Gider Takip Uygulamasi](https://github.com/kaplanh/Aylik-Gider-Takip-Uygulamasi/assets/101884444/5383ad7b-22cd-49c0-a391-9736c52d1ab1)
+![DOM example](https://github.com/kaplanh/Dom-Example/assets/101884444/6daeae24-55bd-47e2-adb3-85c89d9af223)
+
 
 [Click Me!](https://kaplanh.github.io/Aylik-Gider-Takip-Uygulamasi/)
 
