@@ -3,7 +3,7 @@
 ![DOM example](https://github.com/kaplanh/Dom-Example/assets/101884444/6daeae24-55bd-47e2-adb3-85c89d9af223)
 
 
-[Click Me!](https://kaplanh.github.io/Aylik-Gider-Takip-Uygulamasi/)
+[Click Me!](https://kaplanh.github.io/Dom-Example/)
 
 ## Description
 
